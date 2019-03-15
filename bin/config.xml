@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean class="AddBean" id="id1">
+<property name="num1" value="10"/>
+<property name="num2" value="20"/>
+
+</bean>
+
+</beans>
